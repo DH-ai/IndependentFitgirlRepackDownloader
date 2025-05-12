@@ -2,33 +2,8 @@ import beautiful
 import time 
 
 urls =[
-    "https://fuckingfast.co/cimfabbtjgok#Days_Gone_--_fitgirl-repacks.site_--_.part21.rar", 
-    "https://fuckingfast.co/mlozmi7kgtlz#Days_Gone_--_fitgirl-repacks.site_--_.part22.rar", 
-    "https://fuckingfast.co/n45hlztv64d9#Days_Gone_--_fitgirl-repacks.site_--_.part23.rar", 
-    "https://fuckingfast.co/oa7wfj32ssrs#Days_Gone_--_fitgirl-repacks.site_--_.part24.rar", 
-    "https://fuckingfast.co/wfxc1jla8o03#Days_Gone_--_fitgirl-repacks.site_--_.part25.rar", 
-    "https://fuckingfast.co/1ss0jpa93h3u#Days_Gone_--_fitgirl-repacks.site_--_.part26.rar", 
-    "https://fuckingfast.co/4h0uvomaypi3#Days_Gone_--_fitgirl-repacks.site_--_.part27.rar", 
-    "https://fuckingfast.co/182qvnk8919v#Days_Gone_--_fitgirl-repacks.site_--_.part28.rar", 
-    "https://fuckingfast.co/l4sh9fbdioxi#Days_Gone_--_fitgirl-repacks.site_--_.part29.rar", 
-    "https://fuckingfast.co/cfi0lpu20485#Days_Gone_--_fitgirl-repacks.site_--_.part30.rar", 
-    "https://fuckingfast.co/dh0fm5lzdo85#Days_Gone_--_fitgirl-repacks.site_--_.part31.rar", 
-    "https://fuckingfast.co/pzeo2yj9d3ul#Days_Gone_--_fitgirl-repacks.site_--_.part32.rar", 
-    "https://fuckingfast.co/5y76icihypbh#Days_Gone_--_fitgirl-repacks.site_--_.part33.rar", 
-    "https://fuckingfast.co/nwuoignm1yib#Days_Gone_--_fitgirl-repacks.site_--_.part34.rar", 
-    "https://fuckingfast.co/tt3o7dk4ys8i#Days_Gone_--_fitgirl-repacks.site_--_.part35.rar", 
-    "https://fuckingfast.co/fn24nwxp9m4i#Days_Gone_--_fitgirl-repacks.site_--_.part36.rar", 
-    "https://fuckingfast.co/af0j3f02bo0m#Days_Gone_--_fitgirl-repacks.site_--_.part37.rar", 
-    "https://fuckingfast.co/ssbyuqyv1ju5#Days_Gone_--_fitgirl-repacks.site_--_.part38.rar", 
-    "https://fuckingfast.co/jn2i8kcbswrs#Days_Gone_--_fitgirl-repacks.site_--_.part39.rar", 
-    "https://fuckingfast.co/pyer62ppwomq#Days_Gone_--_fitgirl-repacks.site_--_.part40.rar", 
-    "https://fuckingfast.co/2qzzbpkhu4cl#Days_Gone_--_fitgirl-repacks.site_--_.part41.rar", 
-    "https://fuckingfast.co/r6jqzyaal0lp#Days_Gone_--_fitgirl-repacks.site_--_.part42.rar", 
-    "https://fuckingfast.co/d0im9o19mij4#Days_Gone_--_fitgirl-repacks.site_--_.part43.rar", 
-    "https://fuckingfast.co/9kcfuxp1l61w#Days_Gone_--_fitgirl-repacks.site_--_.part44.rar", 
-    "https://fuckingfast.co/w461peir9ch4#Days_Gone_--_fitgirl-repacks.site_--_.part45.rar", 
-    "https://fuckingfast.co/w1h4p9b9x52v#Days_Gone_--_fitgirl-repacks.site_--_.part46.rar", 
-    "https://fuckingfast.co/svhlko6l8r8k#Days_Gone_--_fitgirl-repacks.site_--_.part47.rar", 
+    "https://fuckingfast.co/svhlko6l8r8k#Days_Gone_--_fitgirl-repacks.site_--_.part47.rar"
+
 ]
 # print(urls)
 
