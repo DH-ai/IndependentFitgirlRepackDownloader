@@ -1,13 +1,20 @@
 import beautiful
-import time 
-
-urls =[
-    "https://fuckingfast.co/svhlko6l8r8k#Days_Gone_--_fitgirl-repacks.site_--_.part47.rar"
-
+import time
+import os
+urls = [
+    "https://fuckingfast.co/033tlcqztlsb#GTA5_--_fitgirl-repacks.site_--_.part004.rar",
 ]
 # print(urls)
+def check_file_existence(urls):
+    for url in urls:
+        filename = url.split('#')[1]
+        # //check if the file already exists write code hereonly no function and return the name of the file that no exidt
+        if not os.path.exists(filename):
+            print(filename)
+        exit()
+# check_file_existence(urls)
 
-##TODO
+# TODO
 """
     0. Solve this error. 
     Error:
@@ -25,6 +32,11 @@ urls =[
     10. Providing a summary report of all downloads (successes and failures) at the end.
 
 """
+start_time = time.time()
+
+# Your existing code here
+
+
 for url in urls:
     # Extract the filename from the URL fragment
     extracted_filename = beautiful.extract_filename_from_url(url)
@@ -42,4 +54,6 @@ for url in urls:
     else:
         print("Filename not found in the URL fragment.")
 
-
+end_time = time.time()
+elapsed_time = end_time - start_time
+print(f"Total time elapsed: {elapsed_time:.2f} seconds")
