@@ -69,7 +69,9 @@ def download_file(url, filename):
 
 
         total_size = int(response.headers.get('content-length', 0))
-        block_size = 1024
+        # print(response.headers)
+        # exit()
+        block_size = 10240 
         downloaded_size = 0
 
         print(f"Downloading '{filename}' from '{url}'...")
@@ -102,7 +104,8 @@ def download_file(url, filename):
 
 
 
-
+def download_file_threading(urls):
+    pass
 
 
 
